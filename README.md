@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lauragomez04
 - 👀 I’m interested in becoming a professional Front-end Developer.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Gatsby.js.
 - 💞️ I’m looking to collaborate on exciting projects to improve my skills.
 - 📫 Email me: lauragomez.codes@gmail.com
 
